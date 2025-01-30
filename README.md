@@ -1,5 +1,5 @@
 # C1PK-Flood: A hybrid model integrating the C1PKNet and the PyFlood models
-> A hybrid system integrating a machine learning model (C1PKNet; Lee et al., 2021) and a static model (PyFlood; Santos Cruz et al., 2024) to generate high-resolution inundation maps for the Galveston area. 
+> The C1PK-Flood model is a hybrid system integrating a machine learning model (C1PKNet; Lee et al., 2021) and a static model (PyFlood; Santos Cruz et al., 2024) to generate high-resolution inundation maps for the Galveston area. This model predicts the inundation area in the Galveston based on the time-series of six storm parameters.
 
 
 # C1PK-Flood model running process

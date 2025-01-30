@@ -12,9 +12,9 @@ The input data consists of time-series of six storm parameters, and the output d
 Code for cross-validation result
 Nested 10-fold cross-validation was performed, and a density scatter plot was generated to compare the ADCIRC-simulated peak storm surge values with the C1PKNet-predicted peak storm surge values.
 
-## PyFlood_Preprocessing.py
+## Preprocessing.py
 Code for preprocessing 
-The DEM data is transformed to ensure compatibility with the C1PK-Flood model by converting the coordinate reference system to decimal degrees and replacing cells with NaN values with valid data. The processed file is then saved for running the C1PK-Flood model.
+Using the original mesh information from ADCIRC, generate high-resolution DEM information utilizing the k-nearest neighbor algorithm. And the DEM data is transformed to ensure compatibility with the C1PK-Flood model by converting the coordinate reference system to decimal degrees and replacing cells with NaN values with valid data. The processed file is then saved for running the C1PK-Flood model.
 
 ## main_C1PK_Flood.py
 Code for running the C1PK-Flood model. 

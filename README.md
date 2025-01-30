@@ -18,7 +18,7 @@
 
 ### main_C1PK_Flood.py
 > Code for running the C1PK-Flood model.
-- The results of the C1PKNet model are used as input data for the PyFlood model, which ultimately generates a high-resolution inundation map for the Galveston area in TIFF format.
+- The results of the C1PKNet model are used as input data for the PyFlood model, which ultimately generates a high-resolution inundation map for the Galveston area in TIFF format. One of the test storms and the reduction factor for the PyFlood model can be defined. The result is output under the name RESULT_C1PK_Flood_storm, appended with the corresponding test storm number.
 
 
 # Necessary Inputs Files

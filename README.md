@@ -52,5 +52,6 @@ Distributed under the Creative Commons Legal Code CC0 1.0 Universal. See ``LICEN
 
 # Reference
 Lee, J.W., Irish, J.L., Bensi, M.T. and Marcy, D.C., 2021. Rapid prediction of peak storm surge from tropical cyclone track time series using machine learning. Coastal Engineering, 170, p.104024.
+
 Santos Cruz, A.U., Lee, J.W. and Lee, W., Pyflood: Coastal Flood Mapping with High-Resolution Digital Elevation Model and Land Cover Data. Available at SSRN 4920750.
 

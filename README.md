@@ -23,20 +23,11 @@ The results of the C1PKNet model are used as input data for the PyFlood model, w
 
 # Necessary Inputs Files
 
-## C1PK_Flood_Modules.py
-Modules for the C1PK-Flood model.
-
-## config.py
-Parameters for the C1PK-Flood model. 
-
-## DEM_Galveston.tiff
-High-resolution DEM of the Galveston area. 
-
-## TRAINING_DATA.pkl
-Training dataset of the C1PKNet model. 
-
-## TEST_DATA.pkl
-Test dataset of the C1PKNeto model. 
+- **C1PK_Flood_Modules.py**: Modules for the C1PK-Flood model.  
+- **config.py**: Parameters for the C1PK-Flood model.  
+- **ADCIRC_ori_mesh.pkl**: Original ARCIRC mesh information of the Galveston area.  
+- **TRAINING_DATA.pkl**: Training dataset of the C1PKNet model.  
+- **TEST_DATA.pkl**: Test dataset of the C1PKNet model. 
 
 
 
